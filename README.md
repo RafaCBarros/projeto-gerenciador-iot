@@ -5,17 +5,17 @@ Projeto para Programação Mobile, sétimo período: Uma ferramenta mobile para 
 O projeto é um estudo sobre programação mobile com React Native via realização do frontend de um projeto fictício de gerenciamento de dispositivos IoT.
 
 ## Pré-requisitos
-- [Node.js > 12](https://nodejs.org) e npm ()
+- [Node.js > 12](https://nodejs.org) e npm
 - [JDK > 11](https://www.oracle.com/java/technologies/downloads/#java11)
 - [Android Studio e Android SDK](https://developer.android.com/studio)
 
 ## Dependências Base
 
--[@react-navigation/native ^6.1.6](https://reactnavigation.org/docs/getting-started/) e [@react-navigation/stack ^6.3.16](https://reactnavigation.org/docs/stack-navigator/) para navegação entre telas;
--[react-native-gesture-handler ^2.10.1](https://www.npmjs.com/package/react-native-gesture-handler) para respostas mais suaves e confiáveis de ações gestuais;
--[react-native-dropdown-select-list ^2.0.4](https://www.npmjs.com/package/react-native-dropdown-select-list) para componente de dropdown;
--[react-native-safe-area-context ^4.5.3](https://www.npmjs.com/package/react-native-safe-area-context),
--[react-native-svg ^13.9.0](https://www.npmjs.com/package/react-native-svg) para renderização de imagens vetores .svg
+- [@react-navigation/native ^6.1.6](https://reactnavigation.org/docs/getting-started/) e [@react-navigation/stack ^6.3.16](https://reactnavigation.org/docs/stack-navigator/) para navegação entre telas;
+- [react-native-gesture-handler ^2.10.1](https://www.npmjs.com/package/react-native-gesture-handler) para respostas mais suaves e confiáveis de ações gestuais;
+- [react-native-dropdown-select-list ^2.0.4](https://www.npmjs.com/package/react-native-dropdown-select-list) para componente de dropdown;
+- [react-native-safe-area-context ^4.5.3](https://www.npmjs.com/package/react-native-safe-area-context),
+- [react-native-svg ^13.9.0](https://www.npmjs.com/package/react-native-svg) para renderização de imagens vetores .svg
 
 ## Organização do Projeto
 A pasta fonte, com os códigos realmente alterados, estão organizados entre Components(Components), Navigation (Navegação) e Screens(Telas).
